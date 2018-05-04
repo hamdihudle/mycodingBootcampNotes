@@ -43,3 +43,16 @@ git pull    - downloads the freshest version
 
 Get status### 
 get status -- tells u the status of git files
+
+## cool terminal shortcuts: 
+up keys: goes to the pervious command 
+tab key ( While typing a file/ folder name): Fills out the filename if it's there and unique 
+## specail directory 
+
+`/ - User directory (/user)
+../ - one directory up ( parent directory)
+./ - current directory 
+/- root directory 
+
+## how to copy a file ( cp <target file> <destination file>)
+copies a file from target to destination 
